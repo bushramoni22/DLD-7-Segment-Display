@@ -6,7 +6,7 @@ Currently, only the **report file** is uploaded, which includes:
 - Circuit design and diagrams
 - Truth table
 - Boolean expressions
-- Simulation screenshots (if any)
+- Simulation screenshots 
 - Project explanation
 
 Simulation file will be uploaded later once recreated in Quartus II.
